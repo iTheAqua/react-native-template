@@ -42,7 +42,7 @@ export default function Login({ navigation }) {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: "#333",
+    backgroundColor: "#542965",
     alignItems: "center",
     justifyContent: "center",
     position: "relative",
@@ -77,14 +77,17 @@ const styles = StyleSheet.create({
     marginBottom: 20,
   },
   button: {
-    backgroundColor: "#542965",
+    backgroundColor: "#351a40",
     borderRadius: 5,
     padding: 10,
     alignItems: "center",
   },
+
+  
+  
   button_text: {
     fontSize: 15,
-    color: "#fff",
+    color: "#f9b41c",
   },
   logo: {
     flex: 0.5,
